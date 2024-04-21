@@ -11,7 +11,7 @@ author_profile: true
 
 Education
 ---
-**Bachelor of _Computer Science**   
+**Bachelor of Computer Science**   
   *Faculty of Computer Science, Univeristy of Indonesia* (CSUI)   
   2018 - 2022
 
