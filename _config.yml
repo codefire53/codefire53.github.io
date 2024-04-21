@@ -21,7 +21,7 @@ repository               : "codefire53/codefire53.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profpic.jpg"
   name             : "Mahardika Krisna Ihsani"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "M.Sc. Student @ MBZUAI"
