@@ -17,3 +17,9 @@ Education
 **M.Sc in Natural Language Processing**   
   *Mohamed Bin Zayed University of Artificial Intelligence* (MBZUAI) 
   2023 - 2025 (expected)
+
+Professional Experience
+---
+* **Summer Research Intern** <span style="float:right;">Jun. 2024 - Aug. 2024</span>   
+  *WING Lab, National University of Singapore*
+    
