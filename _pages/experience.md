@@ -22,4 +22,4 @@ Professional Experience
 ---
 * **Summer Research Intern** <span style="float:right;">Jun. 2024 - Aug. 2024</span>   
   *WING Lab, National University of Singapore*
-    
+  *Supervisor: Dr. (Barid) Xi Ai*
