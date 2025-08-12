@@ -3,7 +3,7 @@ title: "Sparse Autoencoders Can Capture Language-Specific Concepts Across Divers
 collection: publications
 permalink: /publication/sae-language-specific-concept
 excerpt: 'This paper is about utilizing sparse autoencoder to find language-specific concepts that could be important to multilingual capability. We also introduced new interpretability method called SAE-LAPE.'
-date: 2025-07
+date: 2025-07-29
 paperurl: 'https://arxiv.org/abs/2507.11230'
 ---
 

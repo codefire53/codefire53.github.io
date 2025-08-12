@@ -3,7 +3,7 @@ title: "Are Knowledge and Reference in Multilingual Language Models Cross-Lingua
 collection: publications
 permalink: /publication/multilingual-knowledge-consistency
 excerpt: 'In this paper we analyzed about the multilingual knowledge factual consistency and relate it with the training.'
-date: 2025-07
+date: 2025-07-15
 paperurl: 'https://arxiv.org/abs/2507.12838'
 ---
 

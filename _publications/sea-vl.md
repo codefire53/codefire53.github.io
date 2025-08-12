@@ -3,7 +3,7 @@ title: "Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision
 collection: publications
 permalink: /publication/sea-vl
 excerpt: 'First south-east asian multimodal VQA cultural benchmark dataset'
-date: 2025-03
+date: 2025-03-18
 venue: 'ACL 2025'
 paperurl: 'https://arxiv.org/abs/2503.07920'
 ---
