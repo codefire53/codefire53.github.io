@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello world! My name is Krisna, a PhD student in Natural Language Processing at MBZUAI. My research encompasses interpretability of language and multimodal language models (with main focus on training dynamic or learning in general), and explainable AI (XAI). Specifically, my research is to interpret the blackbox language models over the course of training to enable better approach for representation learning and also designing performant explainable and controllable language models to enable such models to be "debuggable" easily by researchers just like a computer programme.
+Hello world! My name is Krisna, a PhD student in Natural Language Processing at MBZUAI fortunately advised by [Prof. Kentaro Inui](https://kentaro-inui.github.io/) and [Dr. Lijie Hu](https://lijie-hu.github.io/). My research encompasses interpretability of language model (with main focus on training dynamic or learning in general), and explainable AI (XAI). Specifically, my main research is to interpret the language models over the course of training to enable better learning approach either empirically by using interpretability or theoretically. 
 You can reach out to me through `mahardika.ihsani@mbzuai.ac.ae` or `krisnaihsani@gmail.com`.
 
 
